@@ -13,6 +13,10 @@ public class LunaController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        float horizontal = Input.GetAxis("Horizontal");
+        Debug.Log("Horizontal, " + horizontal);
+        // Vector2 position = transform.position;
+        // position.x += 0.1F;
+        // transform.position = position;
     }
 }
