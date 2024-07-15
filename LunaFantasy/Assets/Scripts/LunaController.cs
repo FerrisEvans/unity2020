@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class LunaController : MonoBehaviour
 {
+    public float speed = 10.0F;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,9 +15,11 @@ public class LunaController : MonoBehaviour
     void Update()
     {
         float horizontal = Input.GetAxis("Horizontal");
-        Debug.Log("Horizontal, " + horizontal);
-        // Vector2 position = transform.position;
-        // position.x += 0.1F;
-        // transform.position = position;
+        float vertical = Input.GetAxis("Vertical");
+
+        Vector2 position = transform.position;
+        position.x += speed * horizontal * Time.deltaTime;
+        position.y += speed * vertical * Time.deltaTime;
+        transform.position = position;
     }
 }
