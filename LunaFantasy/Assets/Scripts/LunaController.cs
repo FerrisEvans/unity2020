@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class LunaController : MonoBehaviour
 {
+    private Rigidbody2D _rigidbody2D;
     public float speed = 10.0F;
     // Start is called before the first frame update
     void Start()
     {
-        
+        _rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -20,6 +21,7 @@ public class LunaController : MonoBehaviour
         Vector2 position = transform.position;
         position.x += speed * horizontal * Time.deltaTime;
         position.y += speed * vertical * Time.deltaTime;
-        transform.position = position;
+        // transform.position = position;
+        _rigidbody2D.MovePosition(position);
     }
 }
