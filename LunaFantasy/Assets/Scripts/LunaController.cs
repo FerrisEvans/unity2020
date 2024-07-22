@@ -7,13 +7,13 @@ public class LunaController : MonoBehaviour
     private Rigidbody2D _rigidbody2D;
     public float speed = 10.0F;
     public int maxHp = 5;
-    private int _hp;
+    public int hp;
 
     // Start is called before the first frame update
     void Start()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
-        _hp = maxHp;
+        hp = maxHp;
     }
 
     // Update is called once per frame
@@ -31,6 +31,6 @@ public class LunaController : MonoBehaviour
 
     public void ChangeHp(int offset = 1)
     {
-        _hp = Mathf.Clamp(_hp + offset, 0, maxHp);
+        hp = Mathf.Clamp(hp + offset, 0, maxHp);
     }
 }
