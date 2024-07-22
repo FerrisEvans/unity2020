@@ -29,8 +29,8 @@ public class LunaController : MonoBehaviour
         _rigidbody2D.MovePosition(position);
     }
 
-    private void ChangeHp(int amount)
+    public void ChangeHp(int offset = 1)
     {
-        _hp = Mathf.Clamp(_hp + amount, 0, maxHp);
+        _hp = Mathf.Clamp(_hp + offset, 0, maxHp);
     }
 }
