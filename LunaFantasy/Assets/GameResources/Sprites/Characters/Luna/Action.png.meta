@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,448 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Action_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1152
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ed335abe864e6493113389fe34085
+      internalID: -335511943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1152
+        width: 156
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7bafdc33e84c2a9f80265d959a7c2
+      internalID: 532624308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1152
+        width: 159
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e9bd974aac437685e511b76364f78
+      internalID: -1347364540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1152
+        width: 156
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d93e8580b24c369313506e10614b5
+      internalID: -1161700453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 867
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3054da40bd374f3babb4cb26fb3034d
+      internalID: 1613357950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 867
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565785c676ed4807bf2963593807590
+      internalID: 1287752352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_6
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 867
+        width: 114
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49e604808844d569ab2c0914fa5139
+      internalID: -645357935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_7
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 867
+        width: 123
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477b67f58227428eac442c78af77a2a
+      internalID: -1181113581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 216
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c084f0b1bc4f1bb4aa9d3b1ce6f6d
+      internalID: -1381268763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 564
+        width: 210
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3837e96d249488eaa4085d5d8fcc94
+      internalID: -345662328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 567
+        width: 204
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c65e9bf4fd4b2f9888c139b649f50
+      internalID: -306077897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 792
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e61ed9eea744a19f243a0b5189dda
+      internalID: 221868522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_12
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 567
+        width: 204
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854e1f645a95419c9325705607f58de
+      internalID: 1474009328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 291
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7030e9d3734e465c866d7c238987849
+      internalID: 1475477523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 291
+        width: 153
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4149616c47b4ba183b545a126c2299
+      internalID: 48853707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 291
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018224de1cc84fcbb5c5db4eddd4754
+      internalID: 1398287472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_16
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 291
+        width: 156
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e487c927765c4285bb06bab79cd09c0
+      internalID: -326581125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 159
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d3560623a3849059585f8dade639d5
+      internalID: -1345022450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 165
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a20636d313cd46d4be245c996a0febb
+      internalID: 1023648731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3
+        width: 156
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41fa99321dae4e0eaa9b97f348499dd
+      internalID: -479016783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 153
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271555e955234fe8bd5b637ed3f7290
+      internalID: -593198314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +560,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Action_0: -335511943
+      Action_1: 532624308
+      Action_10: -306077897
+      Action_11: 221868522
+      Action_12: 1474009328
+      Action_13: 1475477523
+      Action_14: 48853707
+      Action_15: 1398287472
+      Action_16: -326581125
+      Action_17: -1345022450
+      Action_18: 1023648731
+      Action_19: -479016783
+      Action_2: -1347364540
+      Action_20: -593198314
+      Action_3: -1161700453
+      Action_4: 1613357950
+      Action_5: 1287752352
+      Action_6: -645357935
+      Action_7: -1181113581
+      Action_8: -1381268763
+      Action_9: -345662328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

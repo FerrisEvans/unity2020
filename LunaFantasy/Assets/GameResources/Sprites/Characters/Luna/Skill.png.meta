@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08061b698fbed446cb4120efe174eb4f
+      internalID: 2125794890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d2515a8fc52449aac08458a165126a
+      internalID: 1968980662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 144
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe1695f6ca046408e5ed4ed195578c
+      internalID: 9818605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 6
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe921d85e394e3585eac1fa34559e5
+      internalID: 976508304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e760298b9064cc4985b2c873469423
+      internalID: -1049266217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b3fe72f253425089d7681b14c78d8
+      internalID: -595484419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 6
+        width: 144
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5dbcf04ee4e466a8d20dbb9584a44e
+      internalID: -1470117408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 159
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114aa9e9b47749e29c216c244effd89
+      internalID: -1338698998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 99
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93427f4bd7174264b3d80b51699fa98
+      internalID: 769950482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 99
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343bd35bc3254900ab9c0cbf48dd37f
+      internalID: 160972648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_10
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 99
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb217e8e6f4e84c63b53f711da3df9c4
+      internalID: -1586246617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +350,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skill_0: 2125794890
+      Skill_1: 1968980662
+      Skill_10: -1586246617
+      Skill_2: 9818605
+      Skill_3: 976508304
+      Skill_4: -1049266217
+      Skill_5: -595484419
+      Skill_6: -1470117408
+      Skill_7: -1338698998
+      Skill_8: 769950482
+      Skill_9: 160972648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

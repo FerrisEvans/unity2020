@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Climb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fd6d584e6c43b0925e42358a13b7f
+      internalID: 1887036019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 576
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224ecb88eb234b25971b1f7dee06551
+      internalID: -893931727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 582
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24252dd606943e7a877c6945531e3a
+      internalID: -2046761664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 576
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550763af6a210454b9942e0c425afdea
+      internalID: -462654988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38374952287e34f22954b9900208b113
+      internalID: 247509879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 393
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2bdd436f8c04a51b70901d1cfe3511
+      internalID: 488255132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 390
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c7ed3cddd149bebe6c9b9ff7cce3f
+      internalID: -238703565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 393
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d75ff3b0e7499faec72b926918356
+      internalID: -472125095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9e165bf521486e9154cfa7e71a397
+      internalID: 2061682887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4338f734224e6e84b08734343dd5c
+      internalID: -1663435233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 198
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dab0f623bc3435b97d0d5c2ae7f26f
+      internalID: -998654188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 201
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7a9766779d4c7798ceb62256ee6ad
+      internalID: 60306322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d11a05f00994d668b61f1f2c43a0d9
+      internalID: 1101851052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83646f5a29dfe4533b3e281461a452c6
+      internalID: 1397438763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d22fe37b45847b0960d4f501d966b3
+      internalID: 1722022209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbda1e8100424523952609096523ed4
+      internalID: 1795951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +455,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Climb_0: 1887036019
+      Climb_1: -893931727
+      Climb_10: -998654188
+      Climb_11: 60306322
+      Climb_12: 1101851052
+      Climb_13: 1397438763
+      Climb_14: 1722022209
+      Climb_15: 1795951261
+      Climb_2: -2046761664
+      Climb_3: -462654988
+      Climb_4: 247509879
+      Climb_5: 488255132
+      Climb_6: -238703565
+      Climb_7: -472125095
+      Climb_8: 2061682887
+      Climb_9: -1663435233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

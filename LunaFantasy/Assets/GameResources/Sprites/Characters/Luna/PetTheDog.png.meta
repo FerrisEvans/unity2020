@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PetTheDog_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 588
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af7cee8f013345808fa68648544d145
+      internalID: -1526889519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 588
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4421c860019468dabe8fa62a9713a9
+      internalID: 1402887607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 588
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef25397c2bde427aa0b28b7ec722f91
+      internalID: -1768916510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 396
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431cb383e44a4f0480bed81f7f28c01
+      internalID: 1643007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 396
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791bcb23417964a7eac0f616bc9b4790
+      internalID: -991617998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 396
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4e60388a18460c84b4919b96443a9
+      internalID: 954693235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 204
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4137ed8feb4750860868da0db2f42
+      internalID: 1500797808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74337fb642ed46329a908a644bec236
+      internalID: -2135082039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 204
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d931f129cc4f40be619e4177148cf
+      internalID: -1538804220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c0db30dbdc2407ba86c49aed2d836b
+      internalID: -1798395778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 12
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19228365d9745238574bfb25fb3015
+      internalID: 820936927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PetTheDog_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee7216bb4c84383a7fb595ec228f01
+      internalID: -1431675136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +371,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PetTheDog_0: -1526889519
+      PetTheDog_1: 1402887607
+      PetTheDog_10: 820936927
+      PetTheDog_11: -1431675136
+      PetTheDog_2: -1768916510
+      PetTheDog_3: 1643007338
+      PetTheDog_4: -991617998
+      PetTheDog_5: 954693235
+      PetTheDog_6: 1500797808
+      PetTheDog_7: -2135082039
+      PetTheDog_8: -1538804220
+      PetTheDog_9: -1798395778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

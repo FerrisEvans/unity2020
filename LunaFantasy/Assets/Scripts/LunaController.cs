@@ -4,15 +4,19 @@ using UnityEngine;
 
 public class LunaController : MonoBehaviour
 {
-    private Rigidbody2D _rigidbody2D;
     public float speed = 10.0F;
     public int maxHp = 5;
     public int hp;
+    
+    private Rigidbody2D _rigidbody2D;
+    private Animator _animator;
 
     // Start is called before the first frame update
     void Start()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        _animator = GetComponentInChildren<Animator>();
+        _animator.SetFloat("MoveValue", 1.0F);
         hp = maxHp;
     }
 
