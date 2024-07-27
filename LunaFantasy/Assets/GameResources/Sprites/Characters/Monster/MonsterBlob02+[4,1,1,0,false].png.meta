@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MonsterBlob02+[4,1,1,0,false]_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4688790dcf4b7eaf64cc0f83622d5
+      internalID: -304956878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBlob02+[4,1,1,0,false]_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 171
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b3f9d09348426e94bb63ceb822285
+      internalID: 1733216851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBlob02+[4,1,1,0,false]_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b4319cc5fc4059b782331ee4a2598
+      internalID: 616310236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBlob02+[4,1,1,0,false]_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f7738520b9476db43a1bf339650a1
+      internalID: 1675731547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +203,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MonsterBlob02+[4,1,1,0,false]_0: -304956878
+      MonsterBlob02+[4,1,1,0,false]_1: 1733216851
+      MonsterBlob02+[4,1,1,0,false]_2: 616310236
+      MonsterBlob02+[4,1,1,0,false]_3: 1675731547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
