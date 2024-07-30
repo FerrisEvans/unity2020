@@ -74,4 +74,9 @@ public class LunaController : MonoBehaviour
     {
         hp = Mathf.Clamp(hp + offset, 0, maxHp);
     }
+
+    public void Climb(bool climb)
+    {
+        _animator.SetBool("Climb", climb);
+    }
 }
