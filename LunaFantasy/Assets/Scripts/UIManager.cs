@@ -12,17 +12,11 @@ public class UIManager : MonoBehaviour
     private float _originalHpSize;
     private float _originalMpSize;
 
-    // Start is called before the first frame update
     void Awake()
     {
         Instance = this;
         _originalHpSize = hpMaskImg.rectTransform.rect.width;
         _originalMpSize = mpMaskImg.rectTransform.rect.width;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
     }
 
     public void SetHp(float percent)
