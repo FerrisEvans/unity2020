@@ -156,8 +156,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 3
   runSpeed: 5
-  maxHp: 5
-  hp: 5
 --- !u!50 &1841328541628098108
 Rigidbody2D:
   serializedVersion: 4

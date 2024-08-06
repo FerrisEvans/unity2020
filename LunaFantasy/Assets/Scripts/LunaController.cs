@@ -8,8 +8,7 @@ public class LunaController : MonoBehaviour
     private float _speed;
     public float walkSpeed = 3.0F;
     public float runSpeed = 5.0F;
-    public int maxHp = 5;
-    public int hp;
+
     
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
@@ -22,7 +21,6 @@ public class LunaController : MonoBehaviour
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponentInChildren<Animator>();
-        hp = maxHp;
         _speed = walkSpeed;
     }
 
@@ -55,8 +53,6 @@ public class LunaController : MonoBehaviour
             }
         }
         _animator.SetFloat("Move", _moveThreshold);
-
-
     }
 
     private Vector2 _move;
@@ -68,11 +64,6 @@ public class LunaController : MonoBehaviour
         // transform.position = position;
         _rigidbody2D.MovePosition(position);
         
-    }
-
-    public void ChangeHp(int offset = 1)
-    {
-        hp = Mathf.Clamp(hp + offset, 0, maxHp);
     }
 
     public void Climb(bool climb)
