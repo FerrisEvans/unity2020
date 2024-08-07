@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DG.Tweening;
 using UnityEngine;
 
 public class LunaController : MonoBehaviour
@@ -69,5 +70,12 @@ public class LunaController : MonoBehaviour
     public void Climb(bool climb)
     {
         _animator.SetBool("Climb", climb);
+    }
+
+    public void Jump(bool jump)
+    {
+        _animator.SetBool("Jump", jump);
+        _rigidbody2D.simulated = !jump;
+
     }
 }
