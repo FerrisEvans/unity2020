@@ -12,7 +12,7 @@ public class EnemyController : MonoBehaviour
     private int _direction = 1;
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
-    
+
     // Start is called before the first frame update
     void Start()
     {
@@ -38,12 +38,16 @@ public class EnemyController : MonoBehaviour
         if (vertical)
         {
             pos.y += speed * _direction * Time.fixedDeltaTime;
+            _animator.SetFloat("X", 0);
+            _animator.SetFloat("Y", _direction);
         }
         else
         {
             pos.x += speed * _direction * Time.fixedDeltaTime;
+            _animator.SetFloat("X", _direction);
+            _animator.SetFloat("Y", 0);
         }
-        
+
         _rigidbody2D.MovePosition(pos);
     }
 }
