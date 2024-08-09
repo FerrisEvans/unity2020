@@ -50,4 +50,13 @@ public class EnemyController : MonoBehaviour
 
         _rigidbody2D.MovePosition(pos);
     }
+    
+    
+    private void OnCollisionEnter2D(Collision2D c)
+    {
+        if (c.transform.CompareTag("Luna"))
+        {
+            GameManager.Instance.Battle();
+        }
+    }
 }

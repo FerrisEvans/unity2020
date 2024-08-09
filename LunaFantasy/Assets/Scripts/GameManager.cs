@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     public int maxHp = 5;
     public int hp;
+    public GameObject battleGo;
 
     private void Awake()
     {
@@ -30,5 +31,10 @@ public class GameManager : MonoBehaviour
     public void ChangeHp(int offset = 1)
     {
         hp = Mathf.Clamp(hp + offset, 0, maxHp);
+    }
+
+    public void Battle(bool enter = true)
+    {
+        battleGo.SetActive(enter);
     }
 }
